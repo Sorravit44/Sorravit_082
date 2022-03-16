@@ -1,0 +1,29 @@
+
+body{
+    background-color: #cadafd;
+    margin: 50px;
+}
+
+.header h1{
+    text-align: center;
+    background-color: #fff1e6;
+}
+
+#topic1{
+    text-align: center;
+    font-size: 25px;
+    background-color: #fff1e6;
+}
+
+#comment1{
+    text-align: center;
+    font-size: 25px;
+    background-color: #fff1e6;
+}
+
+#comment2{
+    text-align: center;
+    font-size: 25px;
+    background-color: #fff1e6;
+}
+
